@@ -6,8 +6,6 @@
 O projeto é uma recriação do Pipefy apenas para fins de estudos sobre "Drag an Drop".
 
 
-## <code><img src="https://img.icons8.com/dusk/2x/greentech.png" width="50px" height="50px" align="center"></code> Tecnologias ##
-
 ## <code><img src="https://img.icons8.com/dusk/2x/handshake.png" width="50px" height="50px" align="center"></code> Agradecimento ##
 **Agradeço primeiramente a Deus, por ter me mostrado a Rocketseat.**
 
